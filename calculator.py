@@ -15,4 +15,5 @@ def add_pi(a):
 
 
 def broken_total():
+    missing_total = None
     return missing_total
