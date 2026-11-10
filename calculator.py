@@ -12,3 +12,8 @@ def record(value, history):
 
 def add_pi(a):
     return a + math.pi
+
+
+def broken_total():
+    missing_total = None
+    return missing_total
